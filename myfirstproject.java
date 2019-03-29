@@ -4,6 +4,7 @@ public class myproject{
 		super();
 		x="the first edit ";
 		y="the third edit ";
+                                z="the 4 edit";
 	}
 	public void printme (){
 		System.out.print("welcom !!!!!");
